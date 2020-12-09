@@ -1,1 +1,1 @@
-# sign_lang_digit
+# sign_lang_digit_recognition
